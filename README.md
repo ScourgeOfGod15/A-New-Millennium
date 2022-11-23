@@ -1,2 +1,3 @@
 # A-New-Millennium
 Set in 1000 A.D
+Centuries of turmoil have waxed and waned since the glory of the empires of the Caesars in the west and the Caliphs in the east as wars and anarchy take their toll upon the known world. However, as squabbling warlords and belligerent nomads begin to carve out kingdoms and principalities, even fragile and destructive human ambition can offer hope. Great men rise to power, wielding authority divinely granted and by their swords and scepters in the name of peace, order, and stability. But even as an age of darkness seems to pass, there are still many whose plots and machinations can bring even kings to heel...
