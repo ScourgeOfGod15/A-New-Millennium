@@ -1,0 +1,5 @@
+michael = {
+	name = "Michael"
+	culture = "roman"
+motto = "Veni, Vidi, Vici"
+}

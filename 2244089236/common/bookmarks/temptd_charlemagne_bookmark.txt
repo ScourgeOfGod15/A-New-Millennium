@@ -1,0 +1,4 @@
+﻿
+temptd_charlemagne_bm = { #The initial map for bookmarks is set in interface\bookmarks. This is a .dds file that would need edited. For now a placeholder works. 
+	start_date = 1000.12.25
+	is_playable = yes
