@@ -1,0 +1,124 @@
+otto = {
+	name = "Otto"
+	dynasty = michael
+	diplomacy = 5
+	religion = "catholic"
+	culture = "greek"
+	trait = education_diplomacy_2
+	trait = beauty_good_2
+	trait = calm
+	trait = gregarious
+	trait = fickle
+	trait = bastard_founder
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	father = 1288
+	mother = 1717
+	1003.1.1 = {
+		birth = "1003.1.1"
+	}
+	1030.1.1 = {
+		add_spouse = wallada
+	}
+	1035.1.1 = {
+		employer = 1128
+	}
+	1085.1.1 = {
+		death = "1066.1.1"
+	}
+}
+
+wallada = {
+	name = "Wallada"
+	female = yes
+	dynasty = 597
+	religion = "muwalladi"
+	culture = "andalusian"
+	trait = education_learning_3
+	trait = beauty_good_2
+	trait = intellect_good_1
+	trait = generous
+	trait = arrogant
+	trait = just
+	trait = sayyid
+	trait = poet
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	father = 73668
+	1010.1.1 = {
+		birth = "1010.1.1"
+	}
+	1035.1.1 = {
+		effect = {
+			set_relation_lover = { reason = lover_history target = character:otto } 
+		}
+	1035.1.1 = {
+		employer = 1128
+	}
+	}
+	1085.12.25 = {
+		death = "1066.1.1"
+	}
+}
+
+victoria = {
+	name = "Victoria"
+	female = yes
+	dynasty = michael
+	religion = "hellenic_pagan"
+	culture = "roman"
+	trait = education_intrigue_3
+	trait = beauty_good_1
+	trait = intellect_good_3
+	trait = wrathful
+	trait = zealous
+	trait = deceitful
+	trait = witch
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	father = otto
+	mother = wallada
+	1036.1.1 = {
+		birth = "1036.1.1"
+	}
+	1035.1.1 = {
+		employer = 7757
+	}
+}
+
+vincentzo = {
+	name = "Vincentzo"
+	dna = vincentzo_vincentzo
+	dynasty = michael
+	martial = 15
+	prowess = 15
+	diplomacy = 15
+	intrigue = 15
+	stewardship = 15
+	learning = 15
+	religion = "catholic"
+	culture = "greek"
+	trait = education_martial_4
+	trait = blademaster_3
+	trait = logistician
+	trait = military_engineer
+	trait = organizer
+	trait = beauty_good_3
+	trait = intellect_good_2
+	trait = strong
+	trait = ambitious
+	trait = brave
+	trait = diligent
+	trait = athletic
+	trait = education_martial_prowess_4
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	father = otto
+	mother = wallada
+	1046.1.1 = {
+		birth = "1046.1.1"
+	}
+	1035.1.1 = {
+		employer = 7757
+	}
+}
